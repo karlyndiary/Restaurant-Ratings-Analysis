@@ -5,7 +5,7 @@
 * [Case Study](#case-study)
 * [Dataset Description](#dataset-description)
 * [ER Diagram](#er-diagram)
-* [Pre-Processing](#pre-processing)
+* [Data Cleaning](#data-cleaning)
 * [Dashboard](#dashboard)
 * [Data Analysis](#data-analysis)
 * [Recommendations](#recommendations) !!!
@@ -35,11 +35,16 @@ Our data set consists of the following observations which include:
 ## ER Diagram
 ![Restaurant-orders drawio](https://github.com/karlyndiary/Restaurant-Orders/assets/116041695/6d4903a5-0c6a-4fdb-a310-2b1fe86845d4)
 
-## Pre-Processing
+## Data Cleaning
 ### Steps to import data as a folder
 1. Get data -> More -> All -> Folder -> Connect -> Path leading to the folder dataset -> Click ok
 2. Click on transform data -> Duplicate the file -> Click on Binary to expand the dataset (Repeat the set for the no of datasets)
 
+### Pre-Processing
+- Remove nulls in the item_id column
+- Create a new weekday column by extracting from the order_date column
+- Add a dollar sign to the price column
+- 
 ## Dashboard
 
 ## Data Analysis
