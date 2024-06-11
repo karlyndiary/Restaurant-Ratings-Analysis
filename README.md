@@ -34,7 +34,9 @@ Our data set consists of the following observations which include:
 ## ER Diagram
 ![Restaurant-orders drawio](https://github.com/karlyndiary/Restaurant-Orders/assets/116041695/5522d0cd-5741-4082-97bb-4e79f5b920e2)
 
-## Data Cleaning
-- Load data 
+## Pre-Processing
+### Steps to import data as a folder
+1. Get data -> More -> All -> Folder -> Connect -> Path leading to the folder dataset -> Click ok
+2. Click on transform data -> Duplicate the file -> Click on Binary to expand the dataset (Repeat the set for the no of datasets)
 
 ## Dashboard
