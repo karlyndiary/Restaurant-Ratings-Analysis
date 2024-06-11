@@ -7,6 +7,7 @@
 * [ER Diagram](#er-diagram)
 * [Pre-Processing](#pre-processing)
 * [Dashboard](#dashboard)
+* [Data Analysis](#data-analysis)
 * [Recommendations](#recommendations) !!!
 
 ## Case Study
@@ -40,3 +41,36 @@ Our data set consists of the following observations which include:
 2. Click on transform data -> Duplicate the file -> Click on Binary to expand the dataset (Repeat the set for the no of datasets)
 
 ## Dashboard
+
+## Data Analysis
+
+1. Sales Analysis:
+  - What is the total revenue generated over a specific time period?
+  - How do sales vary by day, week, or month?
+  - Which menu items contribute the most to total sales?
+  - What is the average order value?
+2. Menu Performance:
+  - Which menu items are the most popular or frequently ordered?
+  - How do sales of different menu items compare over time?
+  - Are there any seasonal trends in menu item sales?
+3. Order Trends:
+  - How many orders were placed each day, week, or month?
+  - What are the peak hours for orders?
+  - Is there a correlation between order date/time and the types of menu items ordered?
+4. Customer Behavior:
+  - What is the average number of items per order?
+  - How often do customers order the same menu items?
+  - Are there any patterns in the time gap between orders for individual customers?
+5. Price Analysis:
+  - What is the distribution of menu item prices?
+  - Are there any pricing trends over time?
+  - How do price changes affect sales volume?
+6. Order Fulfillment:
+  - How quickly are orders fulfilled from the time they are placed?
+  - Are there any delays in order fulfillment based on the time of day or day of the week?
+7. Customer Segmentation:
+  - Can customers be segmented based on their ordering habits (e.g., frequency, order size)?
+  - Are there any differences in ordering behavior between new and repeat customers?
+8. Forecasting:
+  - Can we forecast future sales based on historical data?
+  - Are there any external factors (e.g., holidays, promotions) that influence sales patterns?
