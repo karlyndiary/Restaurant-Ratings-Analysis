@@ -35,6 +35,6 @@ Our data set consists of the following observations which include:
 ![Restaurant-orders drawio](https://github.com/karlyndiary/Restaurant-Orders/assets/116041695/5522d0cd-5741-4082-97bb-4e79f5b920e2)
 
 ## Data Cleaning
-- 
+- Load data 
 
 ## Dashboard
