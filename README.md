@@ -1,5 +1,14 @@
 # Restaurant Orders
 
+## Table of Content
+
+* [Case Study](#case-study)
+* [Dataset Description](#data-description)
+* [ER Diagram](#er-diagram)
+* [Data Cleaning](#data-cleaning)
+* [Dashboard](#dashboard)
+* [Recommendations](#recommendations) !!!
+
 ## Case Study
 A quarter's worth of orders from a fictitious restaurant serving international cuisine, including the date and time of each order, the items ordered, and additional details on the type, name and price of the items. Some of the questions that we will look at are the following: 
 - What were the least and most ordered items? What categories were they in?
