@@ -3,7 +3,7 @@
 ## Table of Content
 
 * [Case Study](#case-study)
-* [Dataset Description](#data-description)
+* [Dataset Description](#dataset-description)
 * [ER Diagram](#er-diagram)
 * [Data Cleaning](#data-cleaning)
 * [Dashboard](#dashboard)
@@ -32,6 +32,7 @@ Our data set consists of the following observations which include:
 - item_id - Matches the menu_item_id in the menu_items table
 
 ## ER Diagram
+![Restaurant-orders drawio](https://github.com/karlyndiary/Restaurant-Orders/assets/116041695/5522d0cd-5741-4082-97bb-4e79f5b920e2)
 
 ## Data Cleaning
 - 
