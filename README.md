@@ -5,7 +5,7 @@
 * [Case Study](#case-study)
 * [Dataset Description](#dataset-description)
 * [ER Diagram](#er-diagram)
-* [Data Cleaning](#data-cleaning)
+* [Pre-Processing](#pre-processing)
 * [Dashboard](#dashboard)
 * [Recommendations](#recommendations) !!!
 
@@ -32,7 +32,7 @@ Our data set consists of the following observations which include:
 - item_id - Matches the menu_item_id in the menu_items table
 
 ## ER Diagram
-![Restaurant-orders drawio](https://github.com/karlyndiary/Restaurant-Orders/assets/116041695/5522d0cd-5741-4082-97bb-4e79f5b920e2)
+![Restaurant-orders drawio](https://github.com/karlyndiary/Restaurant-Orders/assets/116041695/6d4903a5-0c6a-4fdb-a310-2b1fe86845d4)
 
 ## Pre-Processing
 ### Steps to import data as a folder
