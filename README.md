@@ -51,13 +51,13 @@ Our data set consists of the following observations which include:
 
 1. Sales Analysis:
   - What is the total revenue generated over a specific time period?
-  - How do sales vary by day, week, or month?
-  - Which menu items contribute the most to total sales?
-  - What is the average order value?
+    ```Total Revenue: $159,217.9```
+  - How do sales vary by day, week, or month? ```Friday has the most orders and Sunday has the least orders```
+  - Which menu items contribute the most to total sales? ```Korean Beef Bowl with 588 orders in total```
+  - What is the average order value? ```Average Order Value: $29.80```
 2. Menu Performance:
-  - Which menu items are the most popular or frequently ordered?
+  - Which menu items are the most popular or frequently ordered? ```Total Revenue: $159,217.9```
   - How do sales of different menu items compare over time?
-  - Are there any seasonal trends in menu item sales?
 3. Order Trends:
   - How many orders were placed each day, week, or month?
   - What are the peak hours for orders?
