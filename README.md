@@ -15,7 +15,7 @@ A quarter's worth of orders from a fictitious restaurant serving international c
 - What were the least and most ordered items? What categories were they in?
 - What do the highest spend orders look like? Which items did they buy and how much did they spend?
 - Were there certain times that had more or less orders?
-- Which cuisines should we focus on developing more menu items for based on the data?
+- Which cuisines should we focus on developing more menu items based on the data?
 
 ## Dataset Description
 Our data set consists of the following observations which include:
@@ -56,14 +56,14 @@ Our data set consists of the following observations which include:
   - Which menu items contribute the most to total sales? ```Korean Beef Bowl with 588 orders in total```
   - What is the average order value? ```Average Order Value: $29.80```
 2. Menu Performance:
-  - Which menu items are the most popular or frequently ordered? ```Total Revenue: $159,217.9```
-  - How do sales of different menu items compare over time?
+  - Which menu items are the most popular or frequently ordered? ```Most Popular Dish: Korean Beef Bowl```
+  - How do sales of different menu items compare over time? 
 3. Order Trends:
-  - How many orders were placed each day, week, or month?
-  - What are the peak hours for orders?
+  - How many orders were placed each day? ``` Orders per day: 2900.54```
+  - What are the peak hours for orders? ```Peak Hours: 12 PM```
   - Is there a correlation between order date/time and the types of menu items ordered?
 4. Customer Behavior:
-  - What is the average number of items per order?
+  - What is the average number of items per order? ```Total Revenue: $159,217.9```
   - How often do customers order the same menu items?
   - Are there any patterns in the time gap between orders for individual customers?
 5. Price Analysis:
@@ -72,10 +72,10 @@ Our data set consists of the following observations which include:
   - How do price changes affect sales volume?
 6. Order Fulfillment:
   - How quickly are orders fulfilled from the time they are placed?
-  - Are there any delays in order fulfillment based on the time of day or day of the week?
+  - Are there any delays in order fulfilment based on the time of day or day of the week?
 7. Customer Segmentation:
   - Can customers be segmented based on their ordering habits (e.g., frequency, order size)?
-  - Are there any differences in ordering behavior between new and repeat customers?
+  - Are there any differences in ordering behaviour between new and repeat customers?
 8. Forecasting:
   - Can we forecast future sales based on historical data?
   - Are there any external factors (e.g., holidays, promotions) that influence sales patterns?
