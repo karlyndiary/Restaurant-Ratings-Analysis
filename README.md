@@ -20,12 +20,12 @@ A quarter's worth of orders from a fictitious restaurant serving international c
 ## Dataset Description
 Our data set consists of the following observations which include:
 
-### menu_item: 32 records
+#### menu_item: 32 records
 - menu_item_id - Unique ID of a menu item
 - item_name - Name of a menu item
 - menu_items - Category or type of cuisine of the menu item
 - price - Price of the menu item (US Dollars $)
-### order_details: 12234 records
+#### order_details: 12234 records
 - order_details_id - Unique ID of an item in an order
 - order_id - ID of an order
 - order_date - Date an order was put in (MM/DD/YY)
