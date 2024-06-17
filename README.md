@@ -70,12 +70,9 @@ Our data set consists of the following observations which include:
   - What is the distribution of menu item prices?
   - Are there any pricing trends over time?
   - How do price changes affect sales volume?
-6. Order Fulfillment:
-  - How quickly are orders fulfilled from the time they are placed?
-  - Are there any delays in order fulfilment based on the time of day or day of the week?
-7. Customer Segmentation:
+6. Customer Segmentation:
   - Can customers be segmented based on their ordering habits (e.g., frequency, order size)?
   - Are there any differences in ordering behaviour between new and repeat customers?
-8. Forecasting:
+7. Forecasting:
   - Can we forecast future sales based on historical data?
   - Are there any external factors (e.g., holidays, promotions) that influence sales patterns?
