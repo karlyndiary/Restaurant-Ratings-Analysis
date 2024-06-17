@@ -65,11 +65,8 @@ Our data set consists of the following observations which include:
 4. Customer Behavior:
   - What is the average number of items per order? ```Total Revenue: $159,217.9```
   - How often do customers order the same menu items?
-  - Are there any patterns in the time gap between orders for individual customers?
 5. Price Analysis:
   - What is the distribution of menu item prices?
-  - Are there any pricing trends over time?
-  - How do price changes affect sales volume?
 6. Customer Segmentation:
   - Can customers be segmented based on their ordering habits (e.g., frequency, order size)?
   - Are there any differences in ordering behaviour between new and repeat customers?
