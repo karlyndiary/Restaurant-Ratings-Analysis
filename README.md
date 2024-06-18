@@ -78,7 +78,7 @@ Our data set consists of the following observations which include:
 - Remove blanks
 - make the first row a header
 
-Age Group
+#### Age Group
 ```
 AgeGroup = 
 SWITCH(
@@ -90,12 +90,21 @@ SWITCH(
     "Seniors"
 )
 ```
-Service Rating Category
+#### Service Rating Category
 ```
 Service_Rating_Category = SWITCH(
     TRUE(),
     ratings[Service_Rating] = 0, "Unsatisfactory",
     ratings[Service_Rating] = 1, "Satisfactory",
+    "Highly Satisfactory"
+)
+```
+#### Overall Rating Category
+```
+Overall_Rating_Category = SWITCH(
+    TRUE(),
+    ratings[Overall_Rating] = 0, "Unsatisfactory",
+    ratings[Overall_Rating] = 1, "Satisfactory",
     "Highly Satisfactory"
 )
 ```
