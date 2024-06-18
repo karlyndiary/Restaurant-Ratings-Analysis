@@ -11,29 +11,63 @@
 * [Recommendations](#recommendations) !!!
 
 ## Case Study
-A quarter's worth of orders from a fictitious restaurant serving international cuisine, including the date and time of each order, the items ordered, and additional details on the type, name and price of the items. Some of the questions that we will look at are the following: 
-- What were the least and most ordered items? What categories were they in?
-- What do the highest spend orders look like? Which items did they buy and how much did they spend?
-- Were there certain times that had more or less orders?
-- Which cuisines should we focus on developing more menu items based on the data?
+Restaurant ratings in Mexico by real consumers from 2012, including additional information about each restaurant and their cuisines, and each consumer and their preferences.
+- What can you learn from the highest-rated restaurants? Do consumer preferences have an effect on ratings?
+- What are the consumer demographics? Does this indicate a bias in the data sample?
+- Are there any demand & supply gaps that you can exploit in the market?
+- If you were to invest in a restaurant, which characteristics would you be looking for?
 
 ## Dataset Description
 Our data set consists of the following observations which include:
 
-#### menu_item: 32 records
-- menu_item_id - Unique ID of a menu item
-- item_name - Name of a menu item
-- menu_items - Category or type of cuisine of the menu item
-- price - Price of the menu item (US Dollars $)
-#### order_details: 12234 records
-- order_details_id - Unique ID of an item in an order
-- order_id - ID of an order
-- order_date - Date an order was put in (MM/DD/YY)
-- order_time - Time an order was put in (HH:MM:SS AM/PM)
-- item_id - Matches the menu_item_id in the menu_items table
+#### Consumers
+- **Consumer_ID** - Unique identifier for each consumer
+- **City** - City where the consumer lives
+- **State** - State where the consumer lives
+- **Country** - Country where the consumer lives
+- **Latitude** - Latitude where the consumer lives
+- **Longitude** - Longitude where the consumer lives
+- **Smoker** - Whether the consumer smokes or not
+- **Drink_Level** - Whether the consumer is an abstemious, casual, or social drinker
+- **Transportation_Method** - Whether the consumer transports on foot, by public transport, or by car
+- **Marital_Status** - The consumer's marital status (single or married)
+- **Children** - Whether the consumer has dependent/independent children or kids
+- **Age** - The consumer's age
+- **Occupation** - The consumer's occupation (student, employed, or unemployed)
+- **Budget** - The consumer's budget (low, medium, high)
+
+#### Consumer_Preferences
+- **Consumer_ID** - Unique identifier for each consumer
+- **Preferred_Cuisine** - Types of food the consumer prefers
+
+#### Ratings
+- **Consumer_ID** - Unique identifier for each consumer
+- **Restaurant_ID** -  Unique identifier for each restaurant
+- **Overall_Rating** - The overall rating by the consumer for the restaurant (0=Unsatisfactory, 1=Satisfactory, 2=Highly Satisfactory)
+- **Food_Rating** - The food's rating by the consumer for the restaurant (0=Unsatisfactory, 1=Satisfactory, 2=Highly Satisfactory)
+- **Service_Rating** - The service rating by the consumer for the restaurant (0=Unsatisfactory, 1=Satisfactory, 2=Highly Satisfactory)
+
+#### Restaurants
+- **Restaurant_ID** - Unique identifier for each restaurant
+- **Name** - The restaurant's name
+- **City** - The restaurant's city
+- **State** - The restaurant's state
+- **Country** - The restaurant's country
+- **Zip_Code** - The restaurant's zip code
+- **Latitude** - The restaurant's latitude
+- **Longitude** - The restaurant's longitude
+- **Alcohol_Service** - Whether the restaurant serves no alcohol, wine & beer, or a full bar
+- **Smoking_Allowed** - Whether any smoking is allowed, including in the bar or in smoking sections
+- **Price** - The restaurant's price (low, medium, high)
+- **Franchise** - Whether the restaurant is a franchise
+- **Area** - Whether the restaurant is in an open or closed area
+- **Parking** - Whether the restaurant offers any sort of parking (none, yes, public, valet)
+
+#### Restaurant_Cuisines
+- **Restaurant_ID** -  Unique identifier for each restaurant
+- **Cuisine** -	Types of food the restaurant serves		
 
 ## ER Diagram
-![Restaurant-orders drawio](https://github.com/karlyndiary/Restaurant-Orders/assets/116041695/6d4903a5-0c6a-4fdb-a310-2b1fe86845d4)
 
 ## Data Cleaning
 ### Steps to import data as a folder
@@ -41,35 +75,10 @@ Our data set consists of the following observations which include:
 2. Click on transform data -> Duplicate the file -> Click on Binary to expand the dataset (Repeat the set for the no of datasets)
 
 ### Pre-Processing
-- Remove nulls in the item_id column
-- Create a new weekday column by extracting from the order_date column
-- Add a dollar sign to the price column
-- 
+- Remove blanks
+- make the first row a header
+
 ## Dashboard
 
 ## Data Analysis
 
-1. Sales Analysis:
-  - What is the total revenue generated over a specific time period?
-    ```Total Revenue: $159,217.9```
-  - How do sales vary by day, week, or month? ```Friday has the most orders and Sunday has the least orders```
-  - Which menu items contribute the most to total sales? ```Korean Beef Bowl with 588 orders in total```
-  - What is the average order value? ```Average Order Value: $29.80```
-2. Menu Performance:
-  - Which menu items are the most popular or frequently ordered? ```Most Popular Dish: Korean Beef Bowl```
-  - How do sales of different menu items compare over time? 
-3. Order Trends:
-  - How many orders were placed each day? ``` Orders per day: 2900.54```
-  - What are the peak hours for orders? ```Peak Hours: 12 PM```
-  - Is there a correlation between order date/time and the types of menu items ordered?
-4. Customer Behavior:
-  - What is the average number of items per order? ```Total Revenue: $159,217.9```
-  - How often do customers order the same menu items?
-5. Price Analysis:
-  - What is the distribution of menu item prices?
-6. Customer Segmentation:
-  - Can customers be segmented based on their ordering habits (e.g., frequency, order size)?
-  - Are there any differences in ordering behaviour between new and repeat customers?
-7. Forecasting:
-  - Can we forecast future sales based on historical data?
-  - Are there any external factors (e.g., holidays, promotions) that influence sales patterns?
