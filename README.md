@@ -78,6 +78,27 @@ Our data set consists of the following observations which include:
 - Remove blanks
 - make the first row a header
 
+Age Group
+```
+AgeGroup = 
+SWITCH(
+    TRUE(),
+    consumers[Age] <= 18, "Children and Adolescents",
+    consumers[Age] <= 30, "Young Adults",
+    consumers[Age] <= 45, "Adults",
+    consumers[Age] <= 60, "Middle-aged Adults",
+    "Seniors"
+)
+```
+Service Rating Category
+```
+Service_Rating_Category = SWITCH(
+    TRUE(),
+    ratings[Service_Rating] = 0, "Unsatisfactory",
+    ratings[Service_Rating] = 1, "Satisfactory",
+    "Highly Satisfactory"
+)
+```
 ## Dashboard
 
 ## Data Analysis
