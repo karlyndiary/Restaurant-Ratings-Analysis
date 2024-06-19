@@ -109,6 +109,16 @@ Overall_Rating_Category = SWITCH(
     "Highly Satisfactory"
 )
 ```
+#### Food Rating Category
+```
+Food_Rating_Category = SWITCH(
+    TRUE(),
+    ratings[Food_Rating] = 0, "Unsatisfactory",
+    ratings[Food_Rating] = 1, "Satisfactory",
+    "Highly Satisfactory"
+)
+```
+
 ## Dashboard
 
 ## Data Analysis
