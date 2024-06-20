@@ -1,4 +1,4 @@
-# Restaurant Orders
+# Restaurant Ratings
 
 ## Table of Content
 
