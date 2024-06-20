@@ -1,4 +1,4 @@
-# Restaurant Ratings
+![Restaurant Orders_page-0001](https://github.com/karlyndiary/Restaurant-Ratings/assets/116041695/41067856-8e62-456e-80df-4de41f7f710a)# Restaurant Ratings
 
 ## Table of Content
 
@@ -167,3 +167,8 @@ Food_Rating_Category = SWITCH(
 - How do restaurant franchises compare to non-franchises in terms of consumer ratings
 
 ## Dashboard
+![Restaurant Orders_page-0001](https://github.com/karlyndiary/Restaurant-Ratings/assets/116041695/ca7084ef-b86c-47dc-98f2-dfa833776c69)
+![Restaurant Orders_page-0002](https://github.com/karlyndiary/Restaurant-Ratings/assets/116041695/58c470ca-3127-4edd-b9ec-20e3be439bb0)
+![Restaurant Orders_page-0003](https://github.com/karlyndiary/Restaurant-Ratings/assets/116041695/d58ea47e-ff44-4eef-ba45-e6d4adff6365)
+![Restaurant Orders_page-0004](https://github.com/karlyndiary/Restaurant-Ratings/assets/116041695/73611708-38f7-45f0-90bd-0b1ae27578da)
+![Restaurant Orders_page-0005](https://github.com/karlyndiary/Restaurant-Ratings/assets/116041695/546e7b77-9907-4efd-8372-85dc044ae1e1)
