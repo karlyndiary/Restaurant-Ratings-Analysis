@@ -120,7 +120,7 @@ Food_Rating_Category = SWITCH(
 ```
 
 ## Data Analysis
-#### Consumer Analysis
+### Consumer Analysis
 **Demographic Insights:**
 - What is the distribution of consumers by city, state, or country?
 - How does the age distribution of consumers vary by city or state?
@@ -135,7 +135,7 @@ Food_Rating_Category = SWITCH(
 - How does marital status correlate with smoking or drinking habits?
 - Is there a relationship between consumers' occupations and their budget levels?
 - What are the preferred cuisines of consumers based on their demographic profiles?
-#### Restaurant Analysis
+### Restaurant Analysis
 **Geographical Insights:**
 - What is the distribution of restaurants by city, state, or country?
 - How does the type of alcohol service offered vary by region?
@@ -145,7 +145,7 @@ Food_Rating_Category = SWITCH(
 - How common is parking availability at restaurants in different regions?
 - What percentage of restaurants allow smoking in each city or state?
 - How does the type of area (open or closed) of restaurants vary by city or state?
-#### Consumer-Restaurant Interaction Analysis
+### Consumer-Restaurant Interaction Analysis
 **Rating Analysis:**
 - What is the average overall rating given by consumers in different cities or states?
 - How do food ratings compare to service ratings across various regions?
@@ -155,7 +155,7 @@ Food_Rating_Category = SWITCH(
 - How do consumers' preferred cuisines align with the types of cuisines offered by restaurants they rate highly?
 - Is there a correlation between the consumer’s budget level and the price level of the restaurants they rate highly?
 - Do married consumers rate restaurants differently compared to single consumers?
-#### Comprehensive Analysis
+### Comprehensive Analysis
 **Cross-Dimensional Insights:**
 - What is the relationship between consumer age and their ratings of restaurants?
 - How do transportation methods influence consumers' restaurant ratings and preferences?
