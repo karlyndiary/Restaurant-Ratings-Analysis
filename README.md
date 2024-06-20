@@ -6,8 +6,8 @@
 * [Dataset Description](#dataset-description)
 * [ER Diagram](#er-diagram)
 * [Data Cleaning](#data-cleaning)
-* [Dashboard](#dashboard)
 * [Data Analysis](#data-analysis)
+* [Dashboard](#dashboard)
 * [Recommendations](#recommendations) !!!
 
 ## Case Study
@@ -119,8 +119,6 @@ Food_Rating_Category = SWITCH(
 )
 ```
 
-## Dashboard
-
 ## Data Analysis
 #### Consumer Analysis
 **Demographic Insights:**
@@ -167,3 +165,5 @@ Food_Rating_Category = SWITCH(
 - How does the presence of alcohol service influence consumer ratings in different regions?
 - What is the impact of parking availability on restaurant ratings?
 - How do restaurant franchises compare to non-franchises in terms of consumer ratings
+
+## Dashboard
