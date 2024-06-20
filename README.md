@@ -1,4 +1,4 @@
-![Restaurant Orders_page-0001](https://github.com/karlyndiary/Restaurant-Ratings/assets/116041695/41067856-8e62-456e-80df-4de41f7f710a)# Restaurant Ratings
+# Restaurant Ratings Analysis
 
 ## Table of Content
 
