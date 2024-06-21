@@ -122,6 +122,7 @@ Food_Rating_Category = SWITCH(
 ### Consumer Analysis
 **Demographic Insights:**
 - What is the distribution of consumers by city, state, or country?
+
 - How does the age distribution of consumers vary by city or state?
 - What are the common occupations of consumers in different regions?
   
@@ -133,7 +134,8 @@ Food_Rating_Category = SWITCH(
 **Lifestyle and Preferences:**
 - How does marital status correlate with smoking or drinking habits?
 - Is there a relationship between consumers' occupations and their budget levels?
-- What are the preferred cuisines of consumers based on their demographic profiles?
+- What are consumers' preferred cuisines based on their demographic profiles?
+  
 ### Restaurant Analysis
 **Geographical Insights:**
 - What is the distribution of restaurants by city, state, or country?
@@ -143,26 +145,10 @@ Food_Rating_Category = SWITCH(
 **Facility and Service Insights:**
 - How common is parking availability at restaurants in different regions?
 - What percentage of restaurants allow smoking in each city or state?
-- How does the type of area (open or closed) of restaurants vary by city or state?
-### Consumer-Restaurant Interaction Analysis
-**Rating Analysis:**
-- What is the average overall rating given by consumers in different cities or states?
-- How do food ratings compare to service ratings across various regions?
-- Are there any noticeable patterns in ratings given by smokers versus non-smokers?
   
-**Preference and Satisfaction:**
-- How do consumers' preferred cuisines align with the types of cuisines offered by restaurants they rate highly?
-- Is there a correlation between the consumer’s budget level and the price level of the restaurants they rate highly?
-- Do married consumers rate restaurants differently compared to single consumers?
-### Comprehensive Analysis
-**Cross-Dimensional Insights:**
-- What is the relationship between consumer age and their ratings of restaurants?
-- How do transportation methods influence consumers' restaurant ratings and preferences?
-- What impact does the presence of children have on consumers' restaurant preferences and ratings?
-  
+### Consumer-Restaurant Interaction Analysis  
 **Impact of Restaurant Features:**
 - How does the presence of alcohol service influence consumer ratings in different regions?
-- What is the impact of parking availability on restaurant ratings?
 - How do restaurant franchises compare to non-franchises in terms of consumer ratings
 
 ## Dashboard
