@@ -138,7 +138,7 @@ The majority of restaurants across all cities lack parking facilities, while som
 ```
 
 ### Dining Insights:
-- What is the distribution of restaurant price levels across different cities or states?
+- How does the availability of parking correlate with restaurant price levels across different cities or states?
 ```
 
 ```
@@ -173,8 +173,4 @@ The majority of restaurants across all cities lack parking facilities, while som
 - What are the top 5 restaurants by overall rating?
 
 ## Dashboard
-![Restaurant Ratings Analysis_page-0001](https://github.com/karlyndiary/Restaurant-Ratings-Analysis/assets/116041695/42a25923-f0c0-4b89-82fc-8f3f2c3b4da4)
-![Restaurant Ratings Analysis_page-0002](https://github.com/karlyndiary/Restaurant-Ratings-Analysis/assets/116041695/ed3a1414-b4da-44ec-8ed9-a366a56ba979)
-![Restaurant Ratings Analysis_page-0003](https://github.com/karlyndiary/Restaurant-Ratings-Analysis/assets/116041695/a9d398c4-06e3-41b5-a7d3-a2b01367e141)
-![Restaurant Ratings Analysis_page-0004](https://github.com/karlyndiary/Restaurant-Ratings-Analysis/assets/116041695/21333fca-1b73-4a41-b3bb-cba73b486be5)
-![Restaurant Ratings Analysis_page-0005](https://github.com/karlyndiary/Restaurant-Ratings-Analysis/assets/116041695/f22330f1-5df1-438b-abc1-0daa76e48702)
+
