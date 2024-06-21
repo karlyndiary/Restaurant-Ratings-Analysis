@@ -120,16 +120,40 @@ Food_Rating_Category = SWITCH(
 
 ## Data Analysis
 ### Local Insights:
-- What is the distribution of consumers by city, state, or country?
-- How does the age distribution of consumers vary by city or state?
-- What percentage of consumers are smokers or non-smokers in each city or state?
-- How common is parking availability at restaurants in different regions?
+- What is the distribution of consumers by city and state?
+```
+Most of the population is from San Luis Potosí, San Luis Potosí, while the second largest group is from Cuernavaca, Morelos.
+```
+- How does the age distribution of consumers vary by state?
+```
+In all three states, young adults under 30 years of age form the majority of the population. In two states, San Luis Potosí and Morelos, the second largest demographic consists of seniors, aged over 60 years.
+```
+- What percentage of consumers are smokers or non-smokers in each city?
+```
+The vast majority of consumers from all four cities are non-smokers, with Jiutepec having a 100% non-smoking population. In Cuernavaca city, smokers make up 25% of the population.
+```
+- How common is parking availability at restaurants in different cities?
+```
+The majority of restaurants across all cities lack parking facilities, while some have parking available. In San Luis Potosí and Cuernavaca, two restaurants offer valet parking, while public parking is available in San Luis Potosí, Ciudad Victoria, and Cuernavaca.
+```
 
 ### Dining Insights:
 - What is the distribution of restaurant price levels across different cities or states?
+```
+
+```
 - What is the distribution of restaurants by city, state, or country?
+```
+
+```
 - How do restaurant franchises compare to non-franchises in terms of consumer ratings
+```
+
+```
 - What are consumers' preferred cuisines based on their demographic profiles?
+```
+
+```
 
 ### Hospitality Insights:
 - How does the type of alcohol service offered vary by region?
