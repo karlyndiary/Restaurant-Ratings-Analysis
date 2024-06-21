@@ -135,6 +135,7 @@ Food_Rating_Category = SWITCH(
 - How does the type of alcohol service offered vary by region?
 - What transportation methods are most commonly used by consumers in different regions?
 - How does the presence of alcohol service influence consumer ratings in different regions?
+- What percentage of restaurants allow smoking in each city or state?
 
 ### Behavior Insights:
 - What are the common occupations of consumers in different regions?
@@ -143,28 +144,9 @@ Food_Rating_Category = SWITCH(
 - Is there a relationship between consumers' occupations and their budget levels?
 
 ### Review Insights: 
-
-
-
-
-
-### Consumer Analysis
-**Demographic Insights:**
-- What is the distribution of consumers by city, state, or country?
-
-  
-**Behavioral Insights:**
-  
-**Lifestyle and Preferences:**
-  
-### Restaurant Analysis
-**Geographical Insights:**
-  
-**Facility and Service Insights:**
-- What percentage of restaurants allow smoking in each city or state?
-  
-### Consumer-Restaurant Interaction Analysis  
-**Impact of Restaurant Features:**
+- What are the top 5 restaurants by food rating in each region?
+- What are the top 5 restaurants by service rating in each region?
+- What are the top 5 restaurants by overall rating in each region?
 
 ## Dashboard
 ![Restaurant Orders_page-0001](https://github.com/karlyndiary/Restaurant-Ratings/assets/116041695/ca7084ef-b86c-47dc-98f2-dfa833776c69)
