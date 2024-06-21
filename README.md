@@ -119,37 +119,52 @@ Food_Rating_Category = SWITCH(
 ```
 
 ## Data Analysis
+### Local Insights:
+- What is the distribution of consumers by city, state, or country?
+- How does the age distribution of consumers vary by city or state?
+- What percentage of consumers are smokers or non-smokers in each city or state?
+- How common is parking availability at restaurants in different regions?
+
+### Dining Insights:
+- What is the distribution of restaurant price levels across different cities or states?
+- What is the distribution of restaurants by city, state, or country?
+- How do restaurant franchises compare to non-franchises in terms of consumer ratings
+- What are consumers' preferred cuisines based on their demographic profiles?
+
+### Hospitality Insights:
+- How does the type of alcohol service offered vary by region?
+- What transportation methods are most commonly used by consumers in different regions?
+- How does the presence of alcohol service influence consumer ratings in different regions?
+
+### Behavior Insights:
+- What are the common occupations of consumers in different regions?
+- How does the drink level (abstemious, casual, social) vary across different cities or states?
+- How does marital status correlate with smoking or drinking habits?
+- Is there a relationship between consumers' occupations and their budget levels?
+
+### Review Insights: 
+
+
+
+
+
 ### Consumer Analysis
 **Demographic Insights:**
 - What is the distribution of consumers by city, state, or country?
 
-- How does the age distribution of consumers vary by city or state?
-- What are the common occupations of consumers in different regions?
   
 **Behavioral Insights:**
-- What percentage of consumers are smokers or non-smokers in each city or state?
-- How does the drink level (abstemious, casual, social) vary across different cities or states?
-- What transportation methods are most commonly used by consumers in different regions?
   
 **Lifestyle and Preferences:**
-- How does marital status correlate with smoking or drinking habits?
-- Is there a relationship between consumers' occupations and their budget levels?
-- What are consumers' preferred cuisines based on their demographic profiles?
   
 ### Restaurant Analysis
 **Geographical Insights:**
-- What is the distribution of restaurants by city, state, or country?
-- How does the type of alcohol service offered vary by region?
-- What is the distribution of restaurant price levels across different cities or states?
   
 **Facility and Service Insights:**
-- How common is parking availability at restaurants in different regions?
 - What percentage of restaurants allow smoking in each city or state?
   
 ### Consumer-Restaurant Interaction Analysis  
 **Impact of Restaurant Features:**
-- How does the presence of alcohol service influence consumer ratings in different regions?
-- How do restaurant franchises compare to non-franchises in terms of consumer ratings
 
 ## Dashboard
 ![Restaurant Orders_page-0001](https://github.com/karlyndiary/Restaurant-Ratings/assets/116041695/ca7084ef-b86c-47dc-98f2-dfa833776c69)
