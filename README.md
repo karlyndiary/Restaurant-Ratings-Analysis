@@ -173,8 +173,8 @@ The majority of restaurants across all cities lack parking facilities, while som
 - What are the top 5 restaurants by overall rating?
 
 ## Dashboard
-![Restaurant Ratings Analysis_page-0001](https://github.com/karlyndiary/Restaurant-Ratings-Analysis/assets/116041695/1c23325c-3bac-4382-8175-813a28b538fd)
-![Restaurant Ratings Analysis_page-0002](https://github.com/karlyndiary/Restaurant-Ratings-Analysis/assets/116041695/308c8b41-5732-47b3-82dc-3952f0cdcdc6)
-![Restaurant Ratings Analysis_page-0003](https://github.com/karlyndiary/Restaurant-Ratings-Analysis/assets/116041695/14d310c8-0c5e-4710-a454-5eb9813d4df7)
-![Restaurant Ratings Analysis_page-0004](https://github.com/karlyndiary/Restaurant-Ratings-Analysis/assets/116041695/b9d2f52a-4749-43c2-a58e-909c47e58177)
-![Restaurant Ratings Analysis_page-0005](https://github.com/karlyndiary/Restaurant-Ratings-Analysis/assets/116041695/95b0cb5d-6cb9-4cea-8638-b1b5ca0ffd02)
+![Restaurant Ratings Analysis_page-0001](https://github.com/karlyndiary/Restaurant-Ratings-Analysis/assets/116041695/9b306b6e-9de3-4ce7-90e3-d9b27225b3da)
+![Restaurant Ratings Analysis_page-0002](https://github.com/karlyndiary/Restaurant-Ratings-Analysis/assets/116041695/e097c238-6358-456a-befb-6630dc792994)
+![Restaurant Ratings Analysis_page-0003](https://github.com/karlyndiary/Restaurant-Ratings-Analysis/assets/116041695/7427aa17-f4e9-4a82-9be8-680add660377)
+![Restaurant Ratings Analysis_page-0004](https://github.com/karlyndiary/Restaurant-Ratings-Analysis/assets/116041695/e11ea692-a76e-4c83-88ad-6c451a831a89)
+![Restaurant Ratings Analysis_page-0005](https://github.com/karlyndiary/Restaurant-Ratings-Analysis/assets/116041695/36ffad1b-266f-4b2e-88db-6b8289aea3e8)
