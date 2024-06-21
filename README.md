@@ -144,13 +144,13 @@ Food_Rating_Category = SWITCH(
 - Is there a relationship between consumers' occupations and their budget levels?
 
 ### Review Insights: 
-- What are the top 5 restaurants by food rating in each region?
-- What are the top 5 restaurants by service rating in each region?
-- What are the top 5 restaurants by overall rating in each region?
+- What are the top 5 restaurants by food rating?
+- What are the top 5 restaurants by service rating?
+- What are the top 5 restaurants by overall rating?
 
 ## Dashboard
-![Restaurant Orders_page-0001](https://github.com/karlyndiary/Restaurant-Ratings/assets/116041695/ca7084ef-b86c-47dc-98f2-dfa833776c69)
-![Restaurant Orders_page-0002](https://github.com/karlyndiary/Restaurant-Ratings/assets/116041695/58c470ca-3127-4edd-b9ec-20e3be439bb0)
-![Restaurant Orders_page-0003](https://github.com/karlyndiary/Restaurant-Ratings/assets/116041695/d58ea47e-ff44-4eef-ba45-e6d4adff6365)
-![Restaurant Orders_page-0004](https://github.com/karlyndiary/Restaurant-Ratings/assets/116041695/73611708-38f7-45f0-90bd-0b1ae27578da)
-![Restaurant Orders_page-0005](https://github.com/karlyndiary/Restaurant-Ratings/assets/116041695/546e7b77-9907-4efd-8372-85dc044ae1e1)
+![Restaurant Ratings Analysis_page-0001](https://github.com/karlyndiary/Restaurant-Ratings-Analysis/assets/116041695/42a25923-f0c0-4b89-82fc-8f3f2c3b4da4)
+![Restaurant Ratings Analysis_page-0002](https://github.com/karlyndiary/Restaurant-Ratings-Analysis/assets/116041695/ed3a1414-b4da-44ec-8ed9-a366a56ba979)
+![Restaurant Ratings Analysis_page-0003](https://github.com/karlyndiary/Restaurant-Ratings-Analysis/assets/116041695/a9d398c4-06e3-41b5-a7d3-a2b01367e141)
+![Restaurant Ratings Analysis_page-0004](https://github.com/karlyndiary/Restaurant-Ratings-Analysis/assets/116041695/21333fca-1b73-4a41-b3bb-cba73b486be5)
+![Restaurant Ratings Analysis_page-0005](https://github.com/karlyndiary/Restaurant-Ratings-Analysis/assets/116041695/f22330f1-5df1-438b-abc1-0daa76e48702)
