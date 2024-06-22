@@ -140,19 +140,19 @@ The majority of restaurants across all cities lack parking facilities, while som
 ### Dining Insights:
 - How does the availability of parking correlate with restaurant price levels?
 ```
-16 restaurants prices that have high prices have parking available and three restaurants have valet parking available, and one have public parking and five restaurants dont have parking available. Medium priced restaurants and low priced restaurants dont have valet parking while some of the other restaurants do have public parking and parking available and some dont have parking available. 
+Out of the 16 high-priced restaurants, 16 have parking available, with 3 offering valet parking, 1 providing public parking, and 5 lacking any parking options. Medium and low-priced restaurants do not offer valet parking; however, some provide public parking or have parking available, while others do not have parking available at all.
 ```
 - What is the distribution of restaurants by state?
 ```
-San Luis Potosí has a 84 restaurants, while morelos and tamaulipas have 23 restaurants each which is one the lower end of the count.
+San Luis Potosí has 84 restaurants, whereas Morelos and Tamaulipas each have 23 restaurants.
 ```
-- How do restaurant franchises compare to non-franchises in terms of consumer ratings
+- How do restaurant franchises compare to non-franchises in terms of consumer ratings?
 ```
-
+The majority of the restaurants are non-franchises, and they are equally distributed across three rating categories: unsatisfactory, satisfactory, and highly satisfactory. A small portion of the restaurants are franchises, and they are also equally distributed across the same three rating categories.
 ```
 - What are consumers' preferred cuisines based on their demographic profiles?
 ```
-
+Mexican cuisine is the most preferred, followed by American cuisine.
 ```
 
 ### Hospitality Insights:
