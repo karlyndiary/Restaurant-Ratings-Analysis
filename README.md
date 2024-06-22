@@ -138,13 +138,13 @@ The majority of restaurants across all cities lack parking facilities, while som
 ```
 
 ### Dining Insights:
-- How does the availability of parking correlate with restaurant price levels across different cities or states?
+- How does the availability of parking correlate with restaurant price levels?
 ```
-
+16 restaurants prices that have high prices have parking available and three restaurants have valet parking available, and one have public parking and five restaurants dont have parking available. Medium priced restaurants and low priced restaurants dont have valet parking while some of the other restaurants do have public parking and parking available and some dont have parking available. 
 ```
-- What is the distribution of restaurants by city, state, or country?
+- What is the distribution of restaurants by state?
 ```
-
+San Luis Potosí has a 84 restaurants, while morelos and tamaulipas have 23 restaurants each which is one the lower end of the count.
 ```
 - How do restaurant franchises compare to non-franchises in terms of consumer ratings
 ```
