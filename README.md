@@ -160,7 +160,7 @@ Mexican cuisine is the most preferred, followed by American cuisine.
 ```
 In the four cities combined—Jiutepec, San Luis Potosí, Cuernavaca, and Ciudad Victoria—66.92% of restaurants don't offer alcohol, 6.93% offer a full bar, and 26.15% offer wine and beer.
 ```
-- What transportation methods are most commonly used by consumers in different cities?
+- What transportation methods are most commonly used by consumers?
 ```
 61% of consumers use public transportation, 27% use cars, and 11% walk.
 ```
