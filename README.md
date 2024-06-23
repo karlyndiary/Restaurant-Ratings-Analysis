@@ -158,19 +158,19 @@ Mexican cuisine is the most preferred, followed by American cuisine.
 ### Hospitality Insights:
 - How does the type of alcohol service offered vary by restaurants in each city?
 ```
-66.92% of restaurants don't offer alcohol in all four cities, ie., Jiutepec, San Luis Potosí, Cuernavaca and Ciudad Victoria combined. 6.93% of restaurants in all cities offer full bar and 26.15% of restaurants offer wine and beer.
+In the four cities combined—Jiutepec, San Luis Potosí, Cuernavaca, and Ciudad Victoria—66.92% of restaurants don't offer alcohol, 6.93% offer a full bar, and 26.15% offer wine and beer.
 ```
 - What transportation methods are most commonly used by consumers in different cities?
 ```
-In Ciudad Victoria, 78% of consumers travel by public transportation
+61% of consumers use public transportation, 27% use cars, and 11% walk.
 ```
-- How does the presence of alcohol service influence consumer ratings in different regions?
+- How does the presence of alcohol service influence consumer ratings?
 ```
-Mexican cuisine is the most preferred, followed by American cuisine.
+Among non-drinkers, 303 rated their experience as highly satisfactory, 289 as satisfactory, and 170 as unsatisfactory. For wine and beer consumers, the ratings were 146 highly satisfactory, 105 satisfactory, and 68 unsatisfactory. At full bars, 37 rated highly satisfactory, 27 satisfactory, and 16 unsatisfactory.
 ```
-- What percentage of restaurants allow smoking in each city or state?
+- What percentage of restaurants allow smoking in each state?
 ```
-Mexican cuisine is the most preferred, followed by American cuisine.
+Roughly 73% of restaurants maintain smoke-free policies, while only 1.5% in San Luis Potosí and Morelo allow smoking in bar sections. About 7% of restaurants permit smoking overall, with approximately 18.46% offering designated smoking areas.
 ```
 
 ### Behavior Insights:
