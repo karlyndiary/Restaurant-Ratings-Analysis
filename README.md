@@ -156,21 +156,53 @@ Mexican cuisine is the most preferred, followed by American cuisine.
 ```
 
 ### Hospitality Insights:
-- How does the type of alcohol service offered vary by region?
-- What transportation methods are most commonly used by consumers in different regions?
+- How does the type of alcohol service offered vary by restaurants in each city?
+```
+66.92% of restaurants don't offer alcohol in all four cities, ie., Jiutepec, San Luis Potosí, Cuernavaca and Ciudad Victoria combined. 6.93% of restaurants in all cities offer full bar and 26.15% of restaurants offer wine and beer.
+```
+- What transportation methods are most commonly used by consumers in different cities?
+```
+In Ciudad Victoria, 78% of consumers travel by public transportation
+```
 - How does the presence of alcohol service influence consumer ratings in different regions?
+```
+Mexican cuisine is the most preferred, followed by American cuisine.
+```
 - What percentage of restaurants allow smoking in each city or state?
+```
+Mexican cuisine is the most preferred, followed by American cuisine.
+```
 
 ### Behavior Insights:
 - What are the common occupations of consumers in different regions?
+```
+Mexican cuisine is the most preferred, followed by American cuisine.
+```
 - How does the drink level (abstemious, casual, social) vary across different cities or states?
+```
+Mexican cuisine is the most preferred, followed by American cuisine.
+```
 - How does marital status correlate with smoking or drinking habits?
+```
+Mexican cuisine is the most preferred, followed by American cuisine.
+```
 - Is there a relationship between consumers' occupations and their budget levels?
-
+```
+Mexican cuisine is the most preferred, followed by American cuisine.
+```
 ### Review Insights: 
 - What are the top 5 restaurants by food rating?
+```
+Mexican cuisine is the most preferred, followed by American cuisine.
+```
 - What are the top 5 restaurants by service rating?
+```
+Mexican cuisine is the most preferred, followed by American cuisine.
+```
 - What are the top 5 restaurants by overall rating?
+```
+Mexican cuisine is the most preferred, followed by American cuisine.
+```
 
 ## Dashboard
 ![Restaurant Ratings Analysis_page-0001](https://github.com/karlyndiary/Restaurant-Ratings-Analysis/assets/116041695/9b306b6e-9de3-4ce7-90e3-d9b27225b3da)
