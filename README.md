@@ -176,32 +176,25 @@ Roughly 73% of restaurants maintain smoke-free policies, while only 1.5% in San 
 ### Behavior Insights:
 - What are the common occupations of consumers in different regions?
 ```
-Mexican cuisine is the most preferred, followed by American cuisine.
 ```
 - How does the drink level (abstemious, casual, social) vary across different cities or states?
 ```
-Mexican cuisine is the most preferred, followed by American cuisine.
 ```
 - How does marital status correlate with smoking or drinking habits?
 ```
-Mexican cuisine is the most preferred, followed by American cuisine.
 ```
 - Is there a relationship between consumers' occupations and their budget levels?
 ```
-Mexican cuisine is the most preferred, followed by American cuisine.
 ```
 ### Review Insights: 
 - What are the top 5 restaurants by food rating?
 ```
-Mexican cuisine is the most preferred, followed by American cuisine.
 ```
 - What are the top 5 restaurants by service rating?
 ```
-Mexican cuisine is the most preferred, followed by American cuisine.
 ```
 - What are the top 5 restaurants by overall rating?
 ```
-Mexican cuisine is the most preferred, followed by American cuisine.
 ```
 
 ## Dashboard
