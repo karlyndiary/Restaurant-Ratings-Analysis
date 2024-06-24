@@ -174,14 +174,17 @@ Roughly 73% of restaurants maintain smoke-free policies, while only 1.5% in San 
 ```
 
 ### Behavior Insights:
-- What are the common occupations of consumers in different regions?
+- What are the common occupations of consumers in different state?
 ```
+San Luis Potosí has the 93% of population of students and a remaining portion of it being employed and unemployed. In Morelos, the population is almost equally distributed between employed and students. In Tamaulipas, 94% of the population are students and the remaining 6% are employed.
 ```
-- How does the drink level (abstemious, casual, social) vary across different cities or states?
+- How does the drink level (abstemious, casual, social) vary across different states?
 ```
+In San Luis Potosí, almost 40% of the population are social drinkers, 36% are casual drinkers and 23% are abstemious. In Morelos, 45% of the population are abstemious, 41% are casual drinkers and 12% are social drinkers. In Tamaulipas, 52% are abstemious, 31% are casual drinkers and 15% are social drinkers
 ```
 - How does marital status correlate with smoking or drinking habits?
 ```
+
 ```
 - Is there a relationship between consumers' occupations and their budget levels?
 ```
