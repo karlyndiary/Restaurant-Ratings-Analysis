@@ -176,18 +176,19 @@ Roughly 73% of restaurants maintain smoke-free policies, while only 1.5% in San 
 ### Behavior Insights:
 - What are the common occupations of consumers in different state?
 ```
-San Luis Potosí has the 93% of population of students and a remaining portion of it being employed and unemployed. In Morelos, the population is almost equally distributed between employed and students. In Tamaulipas, 94% of the population are students and the remaining 6% are employed.
+In San Luis Potosí, 93% of the population consists of students, with the remaining portion comprising both employed and unemployed individuals. In Morelos, the population is almost equally split between employed individuals and students. In Tamaulipas, 94% of the population are students, while the remaining 6% are employed.
 ```
 - How does the drink level (abstemious, casual, social) vary across different states?
 ```
-In San Luis Potosí, almost 40% of the population are social drinkers, 36% are casual drinkers and 23% are abstemious. In Morelos, 45% of the population are abstemious, 41% are casual drinkers and 12% are social drinkers. In Tamaulipas, 52% are abstemious, 31% are casual drinkers and 15% are social drinkers
+In San Luis Potosí, almost 40% of the population are social drinkers, 36% are casual drinkers, and 23% are abstemious. In Morelos, 45% are abstemious, 41% are casual drinkers, and 12% are social drinkers. In Tamaulipas, 52% are abstemious, 31% are casual drinkers, and 15% are social drinkers.
 ```
 - How does marital status correlate with smoking or drinking habits?
 ```
-
+Among 88 single consumers, all are non-smokers, with values decreasing respectively as abstemious, casual drinkers, and social drinkers. Among the married non-smokers, 2 are abstemious and 5 are social drinkers. Additionally, 23 single consumers smoke with values combined, and they are social drinkers and casual drinkers. Lastly, 2 married smokers are also social drinkers.
 ```
 - Is there a relationship between consumers' occupations and their budget levels?
 ```
+Among the students, 67 have a medium budget, 33 have a low budget, and 4 have a high budget. Additionally, 15 employed individuals and 1 unemployed individual have a medium budget.
 ```
 ### Review Insights: 
 - What are the top 5 restaurants by food rating?
