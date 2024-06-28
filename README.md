@@ -193,6 +193,7 @@ Among the students, 67 have a medium budget, 33 have a low budget, and 4 have a 
 ### Review Insights: 
 - What are the top 5 restaurants by food rating?
 ```
+The top 5 restaurants with high customer satisfaction - food ratings are Tortas Locas Hipocampo and Puesto de Tacos, where most consumers are highly satisfied. Cafeteria y Restaurante El Pacífico has 9 consumers rating it highly satisfactory, while Gorditas Doa Gloria has received 10. La Cantina Restaurante is rated highly satisfactory by 11 consumers, with the remaining votes split between satisfactory and unsatisfactory.
 ```
 - What are the top 5 restaurants by service rating?
 ```
