@@ -67,7 +67,7 @@ Our data set consists of the following observations which include:
 - **Cuisine** -	Types of food the restaurant serves		
 
 ## ER Diagram
-![Restaurant-ratings drawio](https://github.com/karlyndiary/Restaurant-Ratings-Analysis/assets/116041695/c2bd275d-8378-4d84-8c61-e6e0e431e5d8)
+![Restaurant-ratings drawio](https://github.com/karlyndiary/Restaurant-Ratings-Analysis/assets/116041695/90bef193-a0bb-4211-96ca-a7587b16f2d1)
 
 ## Data Cleaning
 ### Steps to import data as a folder
@@ -77,7 +77,8 @@ Our data set consists of the following observations which include:
 ### Pre-Processing
 - Remove blanks
 - Make the first row a header for 
-- Calculated fields 
+- Calculated fields for ratings table
+
 #### Age Group
 ```
 AgeGroup = 
